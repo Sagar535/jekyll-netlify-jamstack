@@ -9,11 +9,13 @@ intro_paragraph: >-
   to get the hash out of them.
 
 
-
-
   Hash have some advantages over array like instead of retrieving data using
   index we are using key. So it is more descriptive and we also don't need to
   worry about the arrangement/position of data.
+
+
+  It is not that difficult at all. We are going to use a method that does it in
+  one line.
 categories: ruby
 tags: one_line_solution
 ---
