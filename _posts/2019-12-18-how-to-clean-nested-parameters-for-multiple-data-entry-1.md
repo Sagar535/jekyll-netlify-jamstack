@@ -24,7 +24,9 @@ We can have a cleaning function in model like
 {% highlight ruby %}
 
 def remove_repeated_items 		\
-    uniq_ids = product_items.select("Min(id) as id").group(:item_id).collect(&:id)     product_items.where.not(id: uniq_ids).destroy_all end
+    uniq_ids = product_items.select("Min(id) as id").group(:item_id).collect(&:id)
+
+\    product_items.where.not(id: uniq_ids).destroy_all end
 
 {% endhighlight %}
 
