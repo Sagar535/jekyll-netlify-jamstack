@@ -61,6 +61,16 @@ kramdown:
   # Prevent IDs from being added to h1-h6 tags
   auto_ids: false
 
+authors:
+  sagar_shah:
+    name: sagar_shah
+    display_name: Sagar Shah
+    image: /assets/images/sagar.jpg
+    email: 070bct535@ioe.edu.np
+    web: cdrsagar.com
+    twitter:
+    description: Hi, I am Sagar Shah.
+
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use
 
