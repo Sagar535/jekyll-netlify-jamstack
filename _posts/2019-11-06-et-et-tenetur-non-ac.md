@@ -4,10 +4,10 @@ title: Et et tenetur non ac
 author: dan_urbanowicz
 date: '2019-11-06 07:39:44'
 intro_paragraph: >-
-  The graph above demonstrate the comparison between different data
-  visualizations tools and the programming languages. As we see there is
-  compromise between the productivity and flexibility of these tools that are
-  analogous to the programming languages.
+  The graph demonstrate the comparison between different data visualizations
+  tools and the programming languages. As we see there is compromise between the
+  productivity and flexibility of these tools that are analogous to the
+  programming languages.
 categories: 'Aliquam quo sunt do '
 ---
 ![data visualization tools pyramid](/assets/img/uploads/up-down_visualization_lib.png "data visualization tools pyramid")
